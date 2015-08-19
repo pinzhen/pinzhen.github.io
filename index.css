@@ -1,0 +1,48 @@
+*{
+margin: 0;
+}
+
+body {
+background-color: #ffffff;
+font-family: Archer, Optima, Helvetica, Times, Courier;
+font-size: 1.5rem; 
+margin: 60px;
+}
+
+.profilepic {
+	border-radius: 100px; 
+	height: 200px; 
+	width: 200px;
+	margin-right: 24px;
+}
+
+div{
+	margin: 35px;
+
+}
+
+.name
+{
+	font-size: 12rem;
+}
+
+.email
+{
+	font-size: 1.2rem;
+}
+
+.workpic{
+	height: 80%;
+	width: 80%;
+}
+
+.email:hover {
+	color:red;
+}
+.special-divider {
+
+	border: solid 1px #0797ab;
+}
+.special-divider:hover {
+	background-color: red;
+}
