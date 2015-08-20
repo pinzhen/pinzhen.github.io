@@ -26,14 +26,18 @@ div{
 	font-size: 12rem;
 }
 
-.link
+.email
 {
 	font-size: 1.2rem;
 }
 
+.workpic{
+	height: 80%;
+	width: 80%;
+}
 
-.link:hover {
-	color:pink;
+.email:hover {
+	color:red;
 }
 .special-divider {
 
