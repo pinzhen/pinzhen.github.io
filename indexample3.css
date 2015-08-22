@@ -17,11 +17,9 @@ margin: 40px 60px 60px 60px;
 
 .wallpaper{
 	border-radius: 100px;
-	height: 450px;
-	width: 450px;
-	display: block;
-    margin-left: auto;
-    margin-right: auto
+	height: 500px;
+	width: 500px;
+	text-align: center;
 }
 
 div{
@@ -30,10 +28,7 @@ div{
 
 .name
 {
-	font-size: 7rem;
-	margin-left: auto;
-    margin-right: auto;
-    width: 6em
+	font-size: 9rem;
 }
 
 
@@ -43,10 +38,6 @@ div{
     .name {
 		font-size: 2rem;
 	}
-	.wallpaper{
-		max-width: 100%;
-    	height: auto;
-	}
 
 }
 
@@ -54,9 +45,5 @@ div{
     /*apply rules for ipad*/
     .name {
 		font-size: 4rem;
-	}
-	.wallpaper{
-		max-width: 100%;
-    	height: auto;
 	}
 }
